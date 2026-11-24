@@ -5,13 +5,14 @@ It is to be noted that all formats are in “.mat” file v7.3 version or more.
 (All rights of the header file and raw file are as according to their respective publisher. It is used here for educational purposes and non-profit works.)
 
 The image created matches their reference whose link is [https\://arxiv.org/abs/2404.14188](https://arxiv.org/abs/2404.14188).  
-![][image1]  
+![Hypo Lesion](Hypo_lesion.png)
 Hypo\_lesion
 
-![][image2]  
+![Hyper Lesion](Hyper_lesion.png)
 Hyper\_lesion
 
-![][image3]  
+
+![No Lesion](no_lesion.png)
 No\_lesion
 
 The runtime and image quality details are given below:(as calculated from matlab online basic)  
