@@ -70,3 +70,13 @@
 | Reported CNR Improvement | \+0.415750 |
 | Reported ENL Improvement | \+71.105736 |
 
+
+============================================
+          PERFORMANCE BENCHMARK
+============================================
+Mean Latency       : 8.981281 sec
+Minimum Latency    : 8.981281 sec
+Maximum Latency    : 8.981281 sec
+Throughput         : 0.1113 acquisitions/sec
+Total Execution    : 22.535582 sec
+============================================
