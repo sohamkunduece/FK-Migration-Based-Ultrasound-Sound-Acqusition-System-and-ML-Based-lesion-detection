@@ -15,6 +15,8 @@ Hyper\_lesion
 ![No Lesion](no_lesion.png)
 No\_lesion
 
+Please ensure the file paths of input and ouput are corect before running.
+
 The runtime and image quality details are given below:(as calculated from matlab online basic)  
 **1\. Execution Time Performance – MATLAB Online**
 
