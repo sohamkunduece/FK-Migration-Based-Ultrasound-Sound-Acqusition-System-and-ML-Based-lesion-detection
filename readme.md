@@ -239,7 +239,7 @@ This alternative implementation allowed the project to explore GPU acceleration 
 
 ## **Generative AI Usage**
 
-Generative AI tools, including Claude by Anthropic, were used during the project to assist with debugging, pipeline integration, responses to the MathWorks review, and documentation drafting.
+Generative AI tools, including Claude by Anthropic and chatgpt by Openai, were used during the project to assist with debugging, pipeline integration, and documentation drafting.
 
 All technical decisions and reported results were reviewed and verified by the author. Reported performance metrics were obtained from the corresponding committed scripts and output files.
 
